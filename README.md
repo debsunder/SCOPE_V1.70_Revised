@@ -1,5 +1,5 @@
 # SCOPE_V1.70_Revised
-Revised version of SCOPE model v1.70
+Revised version of SCOPE model v1.70.  
 Main revisions include updates to Photosynthesis along with its temperature dependence and its iterative solution as per CLM 4.5.
 
 
